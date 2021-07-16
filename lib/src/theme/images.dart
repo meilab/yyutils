@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-class MyImages {}
-
 class SmallIconImage extends StatelessWidget {
   final String url;
   SmallIconImage(this.url);
